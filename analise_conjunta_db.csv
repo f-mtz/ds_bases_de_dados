@@ -1,0 +1,19 @@
+﻿Design,Marca,Preço ($),Selo,Garantia,Rank
+A,K2R,1.19,Não,Não,13
+A,Glory,1.39,Não,Sim,11
+A,Bissel,1.59,Sim,Não,17
+B,K2R,1.19,Sim,Sim,2
+B,Glory,1.39,Não,Não,14
+B,Bissel,1.59,Não,Não,3
+C,K2R,1.19,Não,Sim,12
+C,Glory,1.39,Sim,Não,7
+C,Bissel,1.59,Não,Não,9
+A,K2R,1.19,Sim,Não,18
+A,Glory,1.39,Não,Sim,8
+A,Bissel,1.59,Não,Não,15
+B,K2R,1.19,Não,Não,4
+B,Glory,1.39,Sim,Não,6
+B,Bissel,1.59,Não,Sim,5
+C,K2R,1.19,Não,Não,10
+C,Glory,1.39,Não,Não,16
+C,Bissel,1.59,Sim,Sim,1
